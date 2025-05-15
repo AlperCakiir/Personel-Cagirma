@@ -1,0 +1,21 @@
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.exe.config
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.exe
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.pdb
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel_Çağırma.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel_Çağırma.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.exe
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.pdb
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.exe.config
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.exe
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\bin\Debug\Personel Çağırma.pdb
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel_Çağırma.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel_Çağırma.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.exe
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel Çağırma.pdb
+C:\Users\alper\OneDrive\Masaüstü\Dersler\GP1 Vize Çalışmaları\Personel Çağırma\Personel Çağırma\obj\Debug\Personel_Çağırma.Form2.resources
